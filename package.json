@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "node": "0.6.12",
+  "author": "geekuillaume",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*",
+    "jade": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Node.js Chat ===",
+  "version": "1.0.0",
+  "main": "3000",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://multichat:3000/NY"
+  },
+  "license": "ISC"
+}
