@@ -3,9 +3,9 @@
   "node": "0.6.12",
   "author": "geekuillaume",
   "dependencies": {
-    "socket.io": "*",
-    "express": "*",
-    "jade": "*"
+    "express": "4.14.0",
+    "jade": "*",
+    "socket.io": "*"
   },
   "scripts": {
     "start": "node server.js"
@@ -18,5 +18,6 @@
     "type": "git",
     "url": "http://multichat:3000/NY"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": []
 }
